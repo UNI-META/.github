@@ -11,4 +11,4 @@ The single brand for all hardware connectivity to the metaverse.
 
 🤯 Mind-blowing and seemless integration accross multiple devices.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
